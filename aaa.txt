@@ -4,3 +4,5 @@ main : Hello, main!
 
 b_1 : 1st
 b_1 : 2nd
+
+main : first text after merge main&b_1
