@@ -8,3 +8,5 @@ b_1 : 2nd
 main : first text after merge main&b_1
 
 b_2 : Welcome b_2
+
+b_3 : here i am
